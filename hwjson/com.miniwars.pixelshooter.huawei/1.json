@@ -4,7 +4,7 @@
   "noadReward_enabled":true,
   "ads_settings": {
     "splash_ad": {
-      "enabled": false
+      "enabled": true
     },
     "CR": {
       "forced_popup": {
