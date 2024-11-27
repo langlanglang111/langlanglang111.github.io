@@ -22,7 +22,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
@@ -38,7 +38,7 @@
     },
     "NB": {
       "carousel": {
-        "enabled": true,
+        "enabled": false,
         "carousel_seconds": 15000
       }
     },
