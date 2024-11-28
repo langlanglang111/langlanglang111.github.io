@@ -38,7 +38,7 @@
     },
     "NB": {
       "carousel": {
-        "enabled": false,
+        "enabled": true,
         "carousel_seconds": 15000
       }
     },
