@@ -17,7 +17,7 @@
         "enabled": true,
         "daily_limit": 1000,
         "time_interval": 1000,
-        "click":30
+        "click":20
       }
     },
     "CIF": {
