@@ -2,11 +2,15 @@
   "isLoggingEnabled":true,
   "noadReward_time":60000,
   "noadReward_enabled":true,
-  "checkNetWork_enabled":true,
-  "checkNetWork_time_interval":30000,
   "ads_settings": {
     "splash_ad": {
       "enabled": true
+    },
+     "checkNetWor": {
+      "forced_popup": {
+        "enabled": true,
+        "time_interval": 30000
+      }
     },
     "CR": {
       "forced_popup": {
