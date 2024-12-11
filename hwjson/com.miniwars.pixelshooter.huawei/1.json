@@ -6,12 +6,18 @@
     "splash_ad": {
       "enabled": true
     },
-    "CR": {
+     "checkNetWor": {
       "forced_popup": {
         "enabled": true,
+        "time_interval": 30000
+      }
+    },
+    "CR": {
+      "forced_popup": {
+        "enabled": false,
         "daily_limit": 1000,
         "time_interval": 1000,
-        "click":15
+        "click":20
       }
     },
     "CIF": {
@@ -22,7 +28,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": true,
+        "enabled": false,
         "popup_delay_seconds": 60000
       }
     },
