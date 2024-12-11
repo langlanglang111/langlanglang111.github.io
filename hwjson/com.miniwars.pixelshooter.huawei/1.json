@@ -14,10 +14,10 @@
     },
     "CR": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "daily_limit": 1000,
         "time_interval": 1000,
-        "click":20
+        "click":15
       }
     },
     "CIF": {
@@ -28,7 +28,7 @@
     },
     "startAdCheckTimer": {
       "forced_popup": {
-        "enabled": false,
+        "enabled": true,
         "popup_delay_seconds": 60000
       }
     },
