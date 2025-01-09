@@ -1,0 +1,58 @@
+{
+  "isLoggingEnabled":false,
+  "noadReward_time":60000,
+  "noadReward_enabled":true,
+  "ads_settings": {
+    "splash_ad": {
+      "enabled": true
+    },
+     "checkNetWor": {
+      "forced_popup": {
+        "enabled": true,
+        "time_interval": 30000
+      }
+    },
+    "CR": {
+      "forced_popup": {
+        "enabled": false,
+        "daily_limit": 1000,
+        "time_interval": 1000,
+        "click":15
+      }
+    },
+    "CIF": {
+      "forced_popup": {
+        "enabled": true,
+        "click": 10
+      }
+    },
+    "startAdCheckTimer": {
+      "forced_popup": {
+        "enabled": false,
+        "popup_delay_seconds": 60000
+      }
+    },
+    "interstitial": {
+      "forced_popup": {
+        "daily_limit": 60000
+      }
+    },
+     "CI": {
+      "forced_popup": {
+        "time_interval": 60000
+      }
+    },
+    "NB": {
+      "carousel": {
+        "enabled": true,
+        "carousel_seconds": 15000
+      }
+    },
+    "NLI": {
+      "accidental_click": {
+        "enabled": false,
+        "click_chance_percentage": 15
+      }
+    }
+  }
+}
